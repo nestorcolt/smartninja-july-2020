@@ -1,0 +1,3 @@
+Hola este es un fichero dummy
+para demostrar los paths
+en Python cuando no estan en el mismo modulo.
