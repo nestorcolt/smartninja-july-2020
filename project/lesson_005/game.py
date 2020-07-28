@@ -42,5 +42,5 @@ def play_game():
 
 ##############################################################################################
 # Run the game
-get_game_data()
-play_game()
+# get_game_data()
+# play_game()
